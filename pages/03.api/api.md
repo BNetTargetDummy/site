@@ -51,7 +51,7 @@ groups:
                 image_selected: wow_logo.png
                 image_width: 300
                 image_height: 150
-                path: /home
+                path: /api/resources/game-data/wow
 navs:
     -
         name: Topics
@@ -113,6 +113,16 @@ navs:
     -
         name: 'Game Data Starcraft 2'
         path: /api/resources/game-data/sc2
+        options:
+            -
+                depth: 1
+                type: link
+            -
+                depth: 2
+                type: id
+    -
+        name: 'Game Data World of Warcraft'
+        path: /api/resources/game-data/wow
         options:
             -
                 depth: 1
