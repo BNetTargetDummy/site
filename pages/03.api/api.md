@@ -2,6 +2,27 @@
 title: API
 groups:
     -
+        name: 'Game Data API Endpoints'
+        parents:
+            -
+                name: 'Diablo 3'
+                image_selected: d3_logo.png
+                image_width: 300
+                image_height: 150
+                path: /api/resources/game-data/d3
+            -
+                name: 'Starcraft 2'
+                image_selected: sc2_logo.png
+                image_width: 300
+                image_height: 150
+                path: /api/resources/game-data/sc2
+            -
+                name: 'World of Warcraft'
+                image_selected: wow_logo.png
+                image_width: 300
+                image_height: 150
+                path: /api/resources/game-data/wow
+    -
         name: 'Community API Endpoints'
         parents:
             -
@@ -31,27 +52,6 @@ groups:
                 image_width: 300
                 image_height: 150
                 path: /api/resources/community-oauth-profile
-    -
-        name: 'Game Data API Endpoints'
-        parents:
-            -
-                name: 'Diablo 3'
-                image_selected: d3_logo.png
-                image_width: 300
-                image_height: 150
-                path: /api/resources/game-data/d3
-            -
-                name: 'Starcraft 2'
-                image_selected: sc2_logo.png
-                image_width: 300
-                image_height: 150
-                path: /api/resources/game-data/sc2
-            -
-                name: 'World of Warcraft'
-                image_selected: wow_logo.png
-                image_width: 300
-                image_height: 150
-                path: /api/resources/game-data/wow
 navs:
     -
         name: Topics

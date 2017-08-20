@@ -8,9 +8,11 @@ parameters:
             name: connectedrealmid
             description: 'The `id` of the connected realm.'
         -
-            name: 'The `id` of the dungeon'
+            name: dungeonid
+            description: 'The `id` of the dungeon'
         -
-            name: 'The `unique identifier` for the leaderboard period.'
+            name: periodid
+            description: 'The `unique identifier` for the leaderboard period.'
 query:
     items:
         -
