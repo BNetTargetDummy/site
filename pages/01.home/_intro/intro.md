@@ -7,12 +7,24 @@ secti0n:
 particlejs:
     particles:
         number:
-            value: 150
+            value: 125
             density:
                 enable: true
                 value_area: 800
         color:
-            value: '#00b4ff'
+            value:
+                - '#00b4ff'
+                - '#aa73ff'
+                - '#83d238'
+                - '#33b1f8'
+            0:
+                - { value: '#00b4ff' }
+            1:
+                1: { value: '#aa73ff' }
+            2:
+                2: { value: '#f8c210' }
+            3:
+                3: { value: '#83d238' }
         shape:
             type: circle
             stroke:

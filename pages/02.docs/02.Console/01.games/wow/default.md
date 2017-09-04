@@ -5,14 +5,14 @@ title: 'World of Warcraft'
 ## World of Warcraft
 
 ```
-$ td request wow <command>
+$ td request wow <resource>
 ```
 
 ### Commands
 
 #### achievement
 
-  -  `--id, -i` Number - the achievement ID
+  - `--id, -i` Number - the achievement ID
 
 #### auction
 
@@ -50,8 +50,8 @@ $ td request wow <command>
 
 #### item
 
-- `--id, -i` Number - the item ID
-- `--set, -s` Boolean - whether the item ID is for a set
+  - `--id, -i` Number - the item ID
+  - `--set, -s` Boolean - whether the item ID is for a set
 
 #### mount
 
