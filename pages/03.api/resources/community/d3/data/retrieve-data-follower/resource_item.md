@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data  follower'
+routable: false
 verb: get
 path: '/d3/data/follwer/{follower}'
 parameters:

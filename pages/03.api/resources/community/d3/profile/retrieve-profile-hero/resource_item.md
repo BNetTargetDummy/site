@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve profile hero'
+routable: false
 verb: get
 path: '/d3/profile/{battletag}/hero/{id}'
 parameters:

@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve pet ability'
+routable: false
 verb: get
 path: '/wow/pet/ability/{abilityid}'
 parameters:

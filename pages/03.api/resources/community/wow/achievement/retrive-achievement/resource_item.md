@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve achievement'
+routable: false
 verb: get
 path: '/wow/achievement/{id}'
 parameters:

@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve character profile'
+routable: false
 verb: get
 path: '/wow/character/{realm}/{charactername}'
 parameters:

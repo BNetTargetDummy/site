@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve Mytic Leaderboard'
+routable: false
 verb: get
 path: '/data/wow/connected-realm/{connectedrealmid}/mytic-leaderboard/{dungeonid}/period/{periodid}'
 parameters:

@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data guild rewards'
+routable: false
 verb: get
 path: /wow/data/guild/rewards
 query:

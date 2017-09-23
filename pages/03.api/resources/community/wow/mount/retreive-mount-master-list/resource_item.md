@@ -1,5 +1,6 @@
 ---
 title: 'Retreive mount master list'
+routable: false
 verb: get
 path: /wow/mount
 query:

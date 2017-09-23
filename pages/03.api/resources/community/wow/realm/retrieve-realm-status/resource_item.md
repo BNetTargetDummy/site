@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve realm status'
+routable: false
 verb: get
 path: /wow/realm/status
 query:

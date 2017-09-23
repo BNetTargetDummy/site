@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data pet types'
+routable: false
 verb: get
 path: /wow/data/pet/types
 query:

@@ -1,5 +1,6 @@
 ---
 title: 'List challenge region leaderboard'
+routable: false
 verb: get
 path: /wow/challenge/region
 query:

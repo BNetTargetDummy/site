@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data achievements'
+routable: false
 verb: get
 path: /sc2/data/achievements
 query:

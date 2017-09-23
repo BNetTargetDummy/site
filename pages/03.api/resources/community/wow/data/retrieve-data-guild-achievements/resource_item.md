@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data guild achievements'
+routable: false
 verb: get
 path: /wow/data/guild/achievements
 query:

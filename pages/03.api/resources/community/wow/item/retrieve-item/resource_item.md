@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve item'
+routable: false
 verb: get
 path: '/wow/item/{itemid}'
 parameters:

@@ -1,4 +1,6 @@
 ---
+title: 'Retrieve data character races'
+routable: false
 verb: get
 path: /wow/data/character/races
 query:

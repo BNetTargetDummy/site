@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data battlegroups'
+routable: false
 verb: get
 path: /wow/data/battlegroups/
 query:

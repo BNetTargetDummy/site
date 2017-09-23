@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve boss'
+routable: false
 verb: get
 path: '/wow/boss/{bossid}'
 parameters:

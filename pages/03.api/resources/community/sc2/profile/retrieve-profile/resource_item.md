@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve profile'
+routable: false
 verb: get
 path: '/sc2/profile/{id}/{region}/{name}/'
 parameters:

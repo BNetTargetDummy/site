@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve item set'
+routable: false
 verb: get
 path: '/wow/item/{setid}'
 parameters:

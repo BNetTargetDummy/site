@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve zone'
+routable: false
 verb: get
 path: '/wow/zone/{zoneid}'
 parameters:

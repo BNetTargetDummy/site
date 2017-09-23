@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data item classes'
+routable: false
 verb: get
 path: /wow/data/item/classes
 query:

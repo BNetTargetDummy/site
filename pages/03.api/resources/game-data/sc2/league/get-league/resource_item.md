@@ -1,5 +1,6 @@
 ---
 title: 'Get league'
+routable: false
 verb: get
 path: '/data/sc2/league/{season.id}/{queue.id}/{team.type}/{league.id}'
 parameters:

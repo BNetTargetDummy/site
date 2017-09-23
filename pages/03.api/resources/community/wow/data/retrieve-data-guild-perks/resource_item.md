@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data guild perks'
+routable: false
 verb: get
 path: /wow/data/guild/perks
 query:

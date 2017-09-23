@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve guild profile'
+routable: false
 verb: get
 path: '/wow/guild/{realm}/{guildname}'
 parameters:

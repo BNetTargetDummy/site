@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve Connected Realm'
+routable: false
 verb: get
 path: '/data/wow-connected-realm/{connectedrealmid}'
 parameters:

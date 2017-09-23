@@ -1,5 +1,6 @@
 ---
 title: 'Retrive Mythic Leaderboard Index'
+routable: false
 verb: get
 path: '/data/wow/connected-realm/{connectedrealmid}/mythic-leaderboard/'
 parameters:

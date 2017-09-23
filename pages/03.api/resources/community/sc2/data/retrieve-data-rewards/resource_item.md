@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data rewards'
+routable: false
 verb: get
 path: /sc2/data/rewards
 query:

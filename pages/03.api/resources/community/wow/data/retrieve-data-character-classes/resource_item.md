@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data character classes'
+routable: false
 verb: get
 path: /wow/data/character/classes
 query:

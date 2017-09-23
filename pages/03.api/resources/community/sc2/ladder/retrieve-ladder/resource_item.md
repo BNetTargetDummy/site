@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve ladder'
+routable: false
 verb: get
 path: '/sc2/ladder/{id}'
 parameters:

@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve era leaderboard'
+routable: false
 verb: get
 path: '/data/d3/era/{id}/leaderboard/{leaderboard}'
 parameters:

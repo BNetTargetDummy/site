@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data artisan'
+routable: false
 verb: get
 path: '/d3/data/artisan/{artisan}'
 parameters:

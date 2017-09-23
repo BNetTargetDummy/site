@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data talents'
+routable: false
 verb: get
 path: /wow/data/talents
 query:

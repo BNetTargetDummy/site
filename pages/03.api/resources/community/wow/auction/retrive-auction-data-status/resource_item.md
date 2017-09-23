@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve auction data status'
+routable: false
 verb: get
 path: '/wow/auction/data/{realm}'
 parameters:

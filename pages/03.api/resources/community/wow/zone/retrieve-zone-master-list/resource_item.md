@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve zone master list'
+routable: false
 verb: get
 path: /wow/zone/
 query:

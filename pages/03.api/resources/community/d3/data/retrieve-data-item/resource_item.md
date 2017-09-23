@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data item'
+routable: false
 verb: get
 path: '/d3/data/item/{data}'
 parameters:

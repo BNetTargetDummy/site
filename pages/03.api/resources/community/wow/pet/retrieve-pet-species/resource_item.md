@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve pet species'
+routable: false
 verb: get
 path: '/wow/pet/species/{speciesid}'
 parameters:

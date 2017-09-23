@@ -3,13 +3,13 @@ title: Features
 features:
     -
         title: 'Social coding'
-        text: 'Solo Goblin engineering is soooo pre-cataclysm, follow the teleported network to our Github repositories'
+        text: 'Solo Goblin engineering is soooo less explosive, follow the teleportation rift to our Github repositories'
         image_selected: github_logo.png
         image_width: 300
         image_height: 150
     -
         title: 'Modular Architecture'
-        text: 'Need to construct additional pylons, our modular development allows you to includes parts you need'
+        text: 'Need to construct additional pylons, our modular development allows you to accumulate parts you need'
         image_selected: npm_logo.png
         image_width: 300
         image_height: 150

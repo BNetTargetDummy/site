@@ -1,5 +1,6 @@
 ---
 title: Retrieve-connected-relam-index
+routable: false
 verb: get
 path: /data/wow/connected-realm/
 query:

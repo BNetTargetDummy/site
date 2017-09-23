@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve quest'
+routable: false
 verb: get
 path: '/wow/quest/{questid}'
 parameters:

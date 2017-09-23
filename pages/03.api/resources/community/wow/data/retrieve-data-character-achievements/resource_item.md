@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve data character achievements'
+routable: false
 verb: get
 path: /wow/data/character/achievements
 query:

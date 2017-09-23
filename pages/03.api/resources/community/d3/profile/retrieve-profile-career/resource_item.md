@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve profile career'
+routable: false
 verb: get
 path: '/d3/profile/{battletag}/'
 parameters:

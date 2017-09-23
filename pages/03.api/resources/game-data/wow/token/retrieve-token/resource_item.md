@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve Token'
+routable: false
 verb: get
 path: /data/wow/token/
 query:

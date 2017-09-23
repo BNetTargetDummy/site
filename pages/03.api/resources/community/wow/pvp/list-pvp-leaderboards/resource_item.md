@@ -1,5 +1,6 @@
 ---
 title: 'List pvp leaderboards'
+routable: false
 verb: get
 path: '/wow/leaderboard/{bracket}'
 parameters:

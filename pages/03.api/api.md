@@ -2,6 +2,15 @@
 title: API
 groups:
     -
+        name: Topics
+        parents:
+            -
+                name: 'Getting Started'
+                image_selected: blizzard_logo.png
+                image_width: 300
+                image_height: 150
+                path: /api/topics
+    -
         name: 'Game Data API Endpoints'
         parents:
             -

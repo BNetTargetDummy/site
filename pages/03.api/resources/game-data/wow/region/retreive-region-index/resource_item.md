@@ -1,5 +1,6 @@
 ---
 title: 'Retreive Region Index'
+routable: false
 verb: get
 path: /data/wow/region/
 query:

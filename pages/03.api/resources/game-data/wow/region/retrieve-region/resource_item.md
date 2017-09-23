@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve Region'
+routable: false
 verb: get
 path: '/data/wow/region/{regionid}'
 parameters:

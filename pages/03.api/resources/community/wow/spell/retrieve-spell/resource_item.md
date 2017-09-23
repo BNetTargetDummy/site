@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve spell'
+routable: false
 verb: get
 path: '/wow/spell/{spellid}'
 parameters:

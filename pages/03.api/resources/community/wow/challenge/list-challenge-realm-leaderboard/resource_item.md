@@ -1,5 +1,6 @@
 ---
 title: 'List challenge realm leaderboard'
+routable: false
 verb: get
 path: '/wow/challenge/{realm}'
 parameters:

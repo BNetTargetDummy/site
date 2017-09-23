@@ -1,5 +1,6 @@
 ---
 title: 'Retreive pet stats'
+routable: false
 verb: get
 path: '/wow/pet/stats/{speciesid}'
 parameters:

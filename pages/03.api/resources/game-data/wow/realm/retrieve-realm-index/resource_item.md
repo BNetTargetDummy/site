@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve Realm Index'
+routable: false
 verb: get
 path: /data/wow/realm/
 query:

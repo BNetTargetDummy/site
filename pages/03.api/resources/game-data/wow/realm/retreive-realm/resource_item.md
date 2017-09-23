@@ -1,5 +1,6 @@
 ---
 title: 'Retreive Realm'
+routable: false
 verb: get
 path: '/data/wow/realm/{realmslug}'
 parameters:

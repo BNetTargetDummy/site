@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve pet master list'
+routable: false
 verb: get
 path: /wow/pet/
 query:

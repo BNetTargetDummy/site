@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve season leaderboard'
+routable: false
 verb: get
 path: '/data/d3/season/{id}/leaderboard/{leaderboard}'
 parameters:

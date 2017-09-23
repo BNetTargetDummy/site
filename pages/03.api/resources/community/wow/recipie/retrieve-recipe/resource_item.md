@@ -1,5 +1,6 @@
 ---
 title: 'Retrieve recipe'
+routable: false
 verb: get
 path: '/wow/recipe/{recipeid}'
 parameters:
